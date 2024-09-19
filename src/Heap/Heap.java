@@ -1,3 +1,5 @@
+package Heap;
+
 public class Heap {
     private int[] heap; //declara um array para armazenar os elementos do heap
     private int tail; //índice do ultimo elemento do heap

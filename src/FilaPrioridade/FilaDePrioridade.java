@@ -1,3 +1,5 @@
+package FilaPrioridade;
+
 public class FilaDePrioridade {
     private int[] heap;
     private int tail; //indice do ultimo elemento
